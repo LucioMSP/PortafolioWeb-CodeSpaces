@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://luciomsp.github.io/portafolioweb-codespaces",
+  "homepage": "http://luciomsp.github.io/PortafolioWeb-CodeSpaces",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://luciomsp.github.io/portafolioweb-codespaces'",
+    "build-gh": "parcel build --public-url 'http://luciomsp.github.io/PortafolioWeb-CodeSpaces'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
