@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "The wait is over, Postman & VS Code 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "With the Postman extension in Visual Studio Code, developers can test and collaborate efficiently, helping them streamline workflow when working with APIs and web services.",
+    url: "https://vicenteguzman.com/postman/2023-07-25-postman-and-vscode/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "GitHub 101 for Beginners",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Mini basic course to learn how to use GitHub.",
+    url: "https://github.com/LucioMSP/GitHub-101",
   },
   {
-    title: "My Resume Site",
+    title: "My WebSite",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A quicker, cleaner way to get started blogging with Hydejack and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://vicenteguzman.com/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Alexa Ninja",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Alexa Ninja is a technological information channel where we talk about development, specifically how to generate Skills for Amazon Alexa.",
+    url: "https://www.youtube.com/channel/UCM9wdzw_LU7_rZvyMo0s2LA",
   },
 ];
 
